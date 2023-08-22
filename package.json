@@ -1,0 +1,34 @@
+{
+  "name": "shopify-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --config webpack.dev.js --progress --color",
+    "build": "webpack --config webpack.prod.js --progress --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamassiminoplum/shopify-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamassiminoplum/shopify-theme/issues"
+  },
+  "homepage": "https://github.com/gamassiminoplum/shopify-theme#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-react": "^7.22.5",
+    "babel-loader": "^9.1.3",
+    "core-js": "^3.32.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-merge": "^5.9.0"
+  }
+}
