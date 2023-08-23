@@ -1,3 +1,7 @@
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/@shopify/polaris@11.12.0/build/esm/styles.css"
+/>
 <section
   id="MainProduct-{{ section.id }}"
   class="page-width section-{{ section.id }}-padding"
@@ -421,6 +425,7 @@
               %}
 
             <div id="cart__drawer_items"></div>
+            <script defer type="module" src="{{ "ajax-cart-side.bundle.js" | asset_url }}"></script>
 
             {%- when 'variant_picker' -%}
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
