@@ -118,6 +118,11 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/trama_negro.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "checkout_logo_size": "small",
+    "checkout_accent_color": "#1a88ff",
+    "checkout_button_color": "#1a88ff",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
