@@ -21,8 +21,8 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections",
-            "button_style_secondary": false
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true
           }
         }
       },
