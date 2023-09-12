@@ -46,16 +46,85 @@
         "padding_bottom": 36
       }
     },
+    "c81e089c-3725-4f37-8d50-bd3b9610649e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20355937501463__c81e089c-3725-4f37-8d50-bd3b9610649e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inspiration",
+            "heading_size": "h1"
+          }
+        },
+        "template--20355937501463__c81e089c-3725-4f37-8d50-bd3b9610649e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That Plum sticker? It's to remind you of the boundless creativity that lies within you. That mate set? It's a nod to the traditions that inspire our modern world. That sleek bag? Well, it's for carrying your dreams and aspirations. Our t-shirts and hoodies? They're designed to wrap you in comfort as you showcase your affiliation with our community. And that classic pen? It's more than just a writing tool; it's an invitation to pen down your ideas. At Plum, every piece of swag is crafted with intention, helping you connect with our community's shared passion and spirit.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--20355937501463__c81e089c-3725-4f37-8d50-bd3b9610649e-heading-1",
+        "template--20355937501463__c81e089c-3725-4f37-8d50-bd3b9610649e-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PHOTO-2022-09-10-23-48-14.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1c82333e-a93b-4d7f-b524-64e0991ff90f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20355937501463__1c82333e-a93b-4d7f-b524-64e0991ff90f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Swags Made with 💙 Sold at Cost!",
+            "heading_size": "h1"
+          }
+        },
+        "template--20355937501463__1c82333e-a93b-4d7f-b524-64e0991ff90f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All of swags items are made with 💙 from Plum and are strictly sold at cost—not at a profit!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20355937501463__1c82333e-a93b-4d7f-b524-64e0991ff90f-heading-1",
+        "template--20355937501463__1c82333e-a93b-4d7f-b524-64e0991ff90f-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "6cae40cd-961b-4110-80ec-f89ef6f8e3f6",
-    "main"
+    "c81e089c-3725-4f37-8d50-bd3b9610649e",
+    "main",
+    "1c82333e-a93b-4d7f-b524-64e0991ff90f"
   ]
 }
